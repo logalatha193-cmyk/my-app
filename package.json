@@ -6,5 +6,7 @@
     "start": "node src/index.js",
     "test": "echo \"No tests\""
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
